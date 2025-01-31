@@ -4,9 +4,9 @@
 
 ## Supported `taco` versions
 
-To use `taco`, you need to connect with a proper network: `mainnet`, `testnet`, or `devnet`. You can find a proper version for each network in the [npmjs.com package tags](https://www.npmjs.com/package/@nucypher/taco?activeTab=versions).
+To use `taco`, you need to connect with a proper network: `mainnet`, `testnet`, or `devnet`.
 
-Visit [our documentation](https://docs.threshold.network/app-development/threshold-access-control-tac/integration-guide#id-0.-pick-an-appropriate-taco-version) to learn more.
+Visit [Testnet domains at TACo docs](https://docs.taco.build/taco-integration/get-started-with-tac#testnet-domains) to learn more.
 
 ## Usage
 
@@ -67,4 +67,4 @@ const decryptedMessage = await decrypt(
 ## Learn more
 
 Please find developer documentation for
-TACo [here](https://docs.threshold.network/app-development/threshold-access-control-tac).
+TACo [here](https://docs.taco.build).

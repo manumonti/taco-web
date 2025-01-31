@@ -29,5 +29,4 @@ pnpm start
 
 ## Learn more
 
-Please find developer documentation for
-TACo [here](https://docs.threshold.network/app-development/threshold-access-control-tac).
+Please find developer documentation at [TACo docs](https://docs.taco.build).
